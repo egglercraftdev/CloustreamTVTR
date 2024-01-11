@@ -3,6 +3,6 @@
     "description": "Tv for tr",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json"
+      "https://github.com/egglercraftdev/CloustreamTVTR/raw/main/CloudstreamTV/plugins.json"
     ]
 }
