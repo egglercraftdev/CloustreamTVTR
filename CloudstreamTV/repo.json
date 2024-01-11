@@ -1,0 +1,8 @@
+{
+    "name": "CloudstreamTVTR",
+    "description": "Tv for tr",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/keyiflerolsun/Kekik-cloudstream/builds/plugins.json"
+    ]
+}
